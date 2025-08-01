@@ -15,6 +15,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone 
+git clone https://github.com/zcode-glitch/first-simple-web.git
 cd website-basic-zcode
 open with live server VSCode
